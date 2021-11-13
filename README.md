@@ -2,7 +2,7 @@
 <h2>project info</h2>
 <ul>
 <li>authentication using firebase</li>
-<li>sending post rrequests to firebase</li>
+<li>sending post requests to firebase</li>
 <li>Routing</li>
 <li>Protected routing</li>
 <li>Conditional routing</li>
